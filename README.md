@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-weight: bold;">Quản lí viên UET 💻</h1>
+<h1 align="center" style="font-weight: bold;">Quản lí sinh viên UET 💻</h1>
 
 <p align="center">
 <a href="#tech">Technologies</a>
@@ -45,12 +45,15 @@ git clone https://github.com/ngducmiinh/Quanlysinhvien_UET.git
 
 <h3>Config .env variables</h2>
 
-Use the `.env.example` as reference to create your configuration file `.env` with your AWS Credentials
+Sửa file `.env` cho phù hợp với database của bạn
 
 ```yaml
-NODE_AWS_REGION=us-east-1
-NODE_AWS_KEY_ID={YOUR_AWS_KEY_ID}
-NODE_AWS_SECRET={YOUR_AWS_SECRET}
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=final
+DB_USERNAME=root
+DB_PASSWORD=
 ```
 
 <h3>Starting</h3>
@@ -58,8 +61,8 @@ NODE_AWS_SECRET={YOUR_AWS_SECRET}
 How to start your project
 
 ```bash
-cd project-name
-npm some-command-to-run
+open your IDE
+php artisan serve
 ```
 
 <h2 id="colab">🤝 Collaborators</h2>
@@ -69,22 +72,14 @@ npm some-command-to-run
 <tr>
 
 <td align="center">
-<a href="https://github.com/Fernanda-Kipper">
-<img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+<a href="https://github.com/ngducmiinh">
+<img src="https://avatars.githubusercontent.com/u/130099547?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
 <sub>
-<b>Fernanda Kipper</b>
+<b>Nguyễn Đức Minh</b>
 </sub>
 </a>
 </td>
 
-<td align="center">
-<a href="https://github.com/ShaanCoding">
-<img src="https://avatars.githubusercontent.com/u/22236218?v=4" width="100px;" alt="Shaan Khan Profile Picture"/><br>
-<sub>
-<b>Shaan Khan</b>
-</sub>
-</a>
-</td>
 
 </tr>
 </table>
