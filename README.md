@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-weight: bold;">Project name 💻</h1>
+<h1 align="center" style="font-weight: bold;">Quản lí viên UET 💻</h1>
 
 <p align="center">
 <a href="#tech">Technologies</a>
@@ -10,37 +10,37 @@
 </p>
 
 
-<p align="center">Simple description of what your project do or how to use it</p>
+<p align="center">Một project nhỏ khi thực tập tại FamilySoft</p>
 
 
 <p align="center">
-<a href="https://github.com/ShaanCoding">📱 Visit this Project</a>
+<a href="https://github.com/ngducmiinh/Quanlysinhvien_UET">📱 Visit this Project</a>
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
 
-- list of all technologies you used
-- react
-- styled components
-- another example
+- Laravel
+- Boostrap
+- HTML Blade
+- Navicat
 
 <h2 id="started">🚀 Getting started</h2>
 
-Here you describe how to run your project locally
+Đọc và xem qua code những hướng dẫn phía dưới
 
 <h3>Prerequisites</h3>
 
-Here you list all prerequisites necessary for running your project. For example:
+Những thứ cần có để chạy dự án
 
-- [NodeJS](https://github.com/)
-- [Git 2](https://github.com)
-
+- [Laravel](https://laravel.com/)
+- [XAMPP](https://www.apachefriends.org/download.html)
+- [Navicat hoặc quản lí database khác]
 <h3>Cloning</h3>
 
 How to clone your project
 
 ```bash
-git clone your-project-url-in-github
+git clone https://github.com/ngducmiinh/Quanlysinhvien_UET.git
 ```
 
 <h3>Config .env variables</h2>
