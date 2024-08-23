@@ -18,7 +18,7 @@
 <h2 id="technologies">💻 Technologies</h2>
 
 - Laravel
-- Boostrap
+- CSS, JS
 - HTML Blade
 - Navicat
 
