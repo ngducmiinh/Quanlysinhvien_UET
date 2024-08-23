@@ -37,7 +37,7 @@ Những thứ cần có để chạy dự án
 - [Navicat hoặc quản lí database khác]
 <h3>Cloning</h3>
 
-How to clone your project
+Cách sao chép dự án về máy
 
 ```bash
 git clone https://github.com/ngducmiinh/Quanlysinhvien_UET.git
@@ -58,7 +58,7 @@ DB_PASSWORD=
 
 <h3>Starting</h3>
 
-How to start your project
+Làm thế nào để bắt đầu dự án của bạn
 
 ```bash
 open your IDE
@@ -67,7 +67,7 @@ php artisan serve
 
 <h2 id="colab">🤝 Collaborators</h2>
 
-<p>Special thank you for all people that contributed for this project.</p>
+<p>Đặc biệt cảm ơn tất cả những người đã đóng góp cho dự án này.</p>
 <table>
 <tr>
 
@@ -83,15 +83,6 @@ php artisan serve
 
 </tr>
 </table>
-
-<h2 id="contribute">📫 Contribute</h2>
-
-Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
-
-1. `git clone https://github.com/Fernanda-Kipper/text-editor.git`
-2. `git checkout -b feature/NAME`
-3. Follow commit patterns
-4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
 
 # Database
 - `users`: Chứa danh sách tài khoản giáo viên và sinh viên
