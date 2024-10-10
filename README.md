@@ -1,3 +1,87 @@
+
+<h1 align="center" style="font-weight: bold;">Quản lí sinh viên UET 💻</h1>
+
+<p align="center">
+<a href="#tech">Technologies</a>
+<a href="#started">Getting Started</a>
+<a href="#colab">Collaborators</a>
+</p>
+
+
+<p align="center">Một project nhỏ khi thực tập tại FamilySoft</p>
+
+
+<p align="center">
+<a href="https://github.com/ngducmiinh/Quanlysinhvien_UET">📱 Visit this Project</a>
+</p>
+
+<h2 id="technologies">💻 Technologies</h2>
+
+- Laravel
+- CSS, JS
+- HTML Blade
+- Navicat
+
+<h2 id="started">🚀 Getting started</h2>
+
+Đọc và xem qua code những hướng dẫn phía dưới
+
+<h3>Prerequisites</h3>
+
+Những thứ cần có để chạy dự án
+
+- [Laravel](https://laravel.com/)
+- [XAMPP](https://www.apachefriends.org/download.html)
+- [Navicat hoặc quản lí database khác]
+<h3>Cloning</h3>
+
+Cách sao chép dự án về máy
+
+```bash
+git clone https://github.com/ngducmiinh/Quanlysinhvien_UET.git
+```
+
+<h3>Config .env variables</h2>
+
+Sửa file `.env` cho phù hợp với database của bạn
+
+```yaml
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=final
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+<h3>Starting</h3>
+
+Làm thế nào để bắt đầu dự án của bạn
+
+```bash
+open your IDE
+php artisan serve
+```
+
+<h2 id="colab">🤝 Collaborators</h2>
+
+<p>Đặc biệt cảm ơn tất cả những người đã đóng góp cho dự án này.</p>
+<table>
+<tr>
+
+<td align="center">
+<a href="https://github.com/ngducmiinh">
+<img src="https://avatars.githubusercontent.com/u/130099547?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+<sub>
+<b>Nguyễn Đức Minh</b>
+</sub>
+</a>
+</td>
+
+
+</tr>
+</table>
+
 # Database
 - `users`: Chứa danh sách tài khoản giáo viên và sinh viên
     - `name`: Họ và tên
